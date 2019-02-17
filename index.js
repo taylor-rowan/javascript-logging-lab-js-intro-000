@@ -7,4 +7,3 @@ console.warn("Be careful.")
 
 // calling console log (notification)
 console.log("Logging successful.")
-
